@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="ic_panda">
+        <!-- Simple panda placeholder - will be drawn programmatically -->
+    </drawable>
+    
+    <drawable name="ic_coin">
+        <!-- Coin placeholder - will be drawn programmatically -->
+    </drawable>
+    
+    <drawable name="ic_star">
+        <!-- Star placeholder - will be drawn programmatically -->
+    </drawable>
+</resources>
